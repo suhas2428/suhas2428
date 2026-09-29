@@ -100,14 +100,30 @@
 
 ## 🔝 Top Contributed Repo
 
-<p align="center">
-  <a href="https://github.com/suhas2428/Ai_Car_Safety_Platform">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=suhas2428&repo=YOUR_REPO_NAME_1&theme=tokyonight&hide_border=true&show_owner=true&cache_seconds=86400" alt="Top repo 1" />
-  </a>
-  <a href="https://github.com/suhas2428/Finwise_ai">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=suhas2428&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true&show_owner=true&cache_seconds=86400" alt="Top repo 2" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/suhas2428/YOUR_REPO_NAME_1">
+        <img src="assets/ai-car-security.png" height="200" alt="AI Car Security" />
+      </a>
+      <h3>🚗 AI Car Security</h3>
+      <p>AI-powered vehicle security with biometric authentication.</p>
+      <a href="https://github.com/suhas2428/YOUR_REPO_NAME_1">
+        <img src="https://img.shields.io/badge/View%20Repo-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View repo" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/suhas2428/YOUR_REPO_NAME_2">
+        <img src="assets/finwise.png" height="200" alt="Finwise" />
+      </a>
+      <h3>📈 Finwise</h3>
+      <p>Smart finance tracking and insights, powered by data.</p>
+      <a href="https://github.com/suhas2428/YOUR_REPO_NAME_2">
+        <img src="https://img.shields.io/badge/View%20Repo-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View repo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
