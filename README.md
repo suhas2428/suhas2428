@@ -9,8 +9,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=38BDF8" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=suhas2428&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/suhas2428?label=Followers&style=flat-square&color=38BDF8" alt="followers" />
 
 </div>
 
@@ -83,17 +83,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suhas2428&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhas2428&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=suhas2428&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="49%" alt="profile details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="49%" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhas2428&theme=tokyonight" width="49%" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suhas2428&theme=tokyonight" width="49%" alt="repos per language" />
 </p>
 
 ---
@@ -101,11 +101,11 @@
 ## 🔝 Top Contributed Repo
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME_1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_1&theme=tokyonight&hide_border=true&show_owner=true&cache_seconds=86400" alt="Top repo 1" />
+  <a href="https://github.com/suhas2428/YOUR_REPO_NAME_1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=suhas2428&repo=YOUR_REPO_NAME_1&theme=tokyonight&hide_border=true&show_owner=true&cache_seconds=86400" alt="Top repo 1" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME_2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true&show_owner=true&cache_seconds=86400" alt="Top repo 2" />
+  <a href="https://github.com/suhas2428/YOUR_REPO_NAME_2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=suhas2428&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true&show_owner=true&cache_seconds=86400" alt="Top repo 2" />
   </a>
 </p>
 
