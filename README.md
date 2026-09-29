@@ -83,8 +83,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -101,8 +101,11 @@
 ## 🔝 Top Contributed Repo
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" alt="top repo" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME_1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_1&theme=tokyonight&hide_border=true&show_owner=true&cache_seconds=86400" alt="Top repo 1" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME_2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true&show_owner=true&cache_seconds=86400" alt="Top repo 2" />
   </a>
 </p>
 
