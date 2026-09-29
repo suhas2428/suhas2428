@@ -104,7 +104,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/suhas2428/YOUR_REPO_NAME_1">
-        <img src="https://raw.githubusercontent.com/suhas2428/suhas2428/main/assets/ai-car-security.png" height="200" alt="AI Car Security" />
+        <img src="https://raw.githubusercontent.com/suhas2428/suhas2428/main/ai-car-security.png" height="200" alt="AI Car Security" />
       </a>
       <h3>🚗 AI Car Security</h3>
       <p>AI-powered vehicle security with biometric authentication.</p>
@@ -114,7 +114,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/suhas2428/YOUR_REPO_NAME_2">
-        <img src="https://raw.githubusercontent.com/suhas2428/suhas2428/main/assets/finwise.png" height="200" alt="Finwise" />
+        <img src="https://raw.githubusercontent.com/suhas2428/suhas2428/main/finwise.png" height="200" alt="Finwise" />
       </a>
       <h3>📈 Finwise</h3>
       <p>Smart finance tracking and insights, powered by data.</p>
